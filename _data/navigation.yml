@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
-    url: /about/
+    # url: /posts/
+    url: /#
+  - title: "Working Groups"
+    url: /#
+  - title: "NSF ACCESS"
+  #  url: /categories/
+    url: /#
+  - title: "News/Events"
+    url: /#
+  - title: "Contact Us"
+    url: /#
+  #- title: "About"
+  #  url: /about/
