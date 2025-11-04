@@ -9,6 +9,6 @@ main:
   - title: "News/Events"
     url: /#
   - title: "Contact Us"
-    url: /#
+    url: /contact/
   #- title: "About"
   #  url: /about/
