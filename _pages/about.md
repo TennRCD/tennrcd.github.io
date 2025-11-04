@@ -3,6 +3,28 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The Tennessee Research, Education, and Computing Collaborative is a consortium of over 15 member institutions across Tennessee dedicated to energizing and improving research cyberinfrastructure (CI) in the state. Participating institutions range from research-intensive R1s to teaching-focused community colleges. TRECC’s members are deans of engineering, CI center directors, system administrators, research computing and data facilitators, librarians, and faculty. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Apart from bi-weekly meetings where we have invited talks from members of the regional and national community on topics of interest, we have the following working groups with a common goal of advancing CI excellence in Tennessee:
+
+- **Security** 
+- Creating a **CaRCC Capabilities Model** for Tennessee
+- Developing **Cyberinfrastructure Plans** for participating institutions 
+- Building a **TRECC website** and repository to facilitate knowledge sharing
+
+## Current TRECC Member Institutions
+- Austin Peay State University
+- East Tennessee State University
+- Meharry Medical College
+- Middle Tennessee State University
+- Motlow State Community College
+- Pellissippi State Community College
+- Rhodes College
+- Tennessee State University
+- Tennessee Tech University
+- The University of Tennessee Chattanooga
+- The University of Tennessee Health Science Center
+- The University of Tennessee Knoxville
+- The University of Tennessee Martin
+- The University of Tennessee Southern
+- University of Memphis

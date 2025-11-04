@@ -1,7 +1,6 @@
 main:
   - title: "About"
-    # url: /posts/
-    url: /#
+    url: /about/
   - title: "Working Groups"
     url: /#
   - title: "NSF ACCESS"
