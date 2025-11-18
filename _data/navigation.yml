@@ -4,8 +4,7 @@ main:
   - title: "Working Groups"
     url: /#
   - title: "NSF ACCESS"
-  #  url: /categories/
-    url: /#
+    url: /nsf_access/
   - title: "News/Events"
     url: /#
   - title: "Contact Us"
